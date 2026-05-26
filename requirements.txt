@@ -1,0 +1,22 @@
+# ==========================================
+# Object Detection and Tracking Project
+# ==========================================
+
+# OpenCV for image and video processing
+opencv-python==4.10.0.84
+
+# YOLOv8 and AI object detection framework
+ultralytics==8.3.0
+
+# Additional computer vision utilities
+cvzone==1.6.1
+
+# Numerical operations
+numpy>=1.24.0
+
+# Optional: Better plotting and visualization
+matplotlib>=3.8.0
+
+# Optional: Deep learning backend support
+torch>=2.0.0
+torchvision>=0.15.0
