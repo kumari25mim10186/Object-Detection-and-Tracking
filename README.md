@@ -1,4 +1,4 @@
-# Language-Translator
+# CHATBOT FOR FAQS
 # Object Detection and Tracking
 
 ## 📌 Project Overview
